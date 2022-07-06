@@ -1,1 +1,1 @@
-this file is shell script
+this file is linux
